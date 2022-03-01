@@ -1,6 +1,6 @@
 ### Hello I´m Willian Proni!!
 
--💻 Hoje trabalho com c#/.NET
+- 💻 Hoje trabalho com c#/.NET
 - 🌱 Estudando C#/.NET
 
 <div align="center">
