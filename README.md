@@ -3,6 +3,9 @@
 - 💻 Hoje trabalho com c#/.NET
 - 🌱 Estudando C#/.NET
 
+![c633c20ede82f0e0ced7d570dbe3a1f3](https://cdn.dribbble.com/users/521912/screenshots/13911181/media/2053a15d64873ea11f9e6cc5cb26f227.gif)
+
+
 <div align="center">
   <a href="https://github.com/willianproni">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=willianproni&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
