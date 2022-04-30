@@ -3,7 +3,7 @@
 - 💻 Hoje trabalho com c#/.NET
 - 🌱 Estudando C#/.NET
 
-![c633c20ede82f0e0ced7d570dbe3a1f3](https://cdn.dribbble.com/users/521912/screenshots/13911181/media/2053a15d64873ea11f9e6cc5cb26f227.gif)
+![c633c20ede82f0e0ced7d570dbe3a1f3](https://blog.bsource.com.br/assets/img/programador.gif)
 
 
 <div align="center">
