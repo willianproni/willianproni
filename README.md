@@ -1,7 +1,7 @@
 ### Hello I´m Willian Proni!!
 
-- 💻 Hoje trabalho com c#/.NET
-- 🌱 Estudando C#/.NET
+- 💻 Hoje trabalho como desenvolvedor Front-End
+- 🌱 Estudando React Native
 
 ![c633c20ede82f0e0ced7d570dbe3a1f3](https://blog.bsource.com.br/assets/img/programador.gif)
 
