@@ -3,9 +3,6 @@
 - 💻 Hoje trabalho como desenvolvedor Front-End
 - 🌱 Estudando React Native
 
-![c633c20ede82f0e0ced7d570dbe3a1f3](https://blog.bsource.com.br/assets/img/programador.gif)
-
-
 <div align="center">
   <a href="https://github.com/willianproni">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=willianproni&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
