@@ -1,7 +1,6 @@
 ### Hello I´m Willian Proni!!
 
-- 💻 Hoje trabalho como desenvolvedor Front-End
-- 🌱 Estudando React Native
+Today I as job Software developer and work at 5by5 Solution system, actuo 
 
 <div align="center">
   <a href="https://github.com/willianproni">
