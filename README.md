@@ -1,6 +1,6 @@
 ### Hello I´m Willian Proni!!
 
-Today I as job Software developer and work at 5by5 Solution system, actuo 
+I as job Software developer and work at 5by5 Solution system
 
 <div  style="display: inline_block"><br>
   <img align="center" alt="Will-Ts" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
