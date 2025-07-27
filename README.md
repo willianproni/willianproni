@@ -1,6 +1,6 @@
 ### Hello I´m Willian Proni!!
 
-I as job Software developer and work at 5by5 Solution system
+I as job Software developer and work at 5by5 Solution system, I'm web develop Node, React and React Native with Typescript
 
 <div  style="display: inline_block"><br>
   <img align="center" alt="git icon" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
